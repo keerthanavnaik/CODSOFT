@@ -34,24 +34,6 @@ CSS grid system for button alignments. Use event listeners, if-else statements, 
 loops to handle user input and perform calculations. This project requires some skill but can be
 done with basic knowledge of these technologies..
 
-# LEVEL -2(TASK-1)
-Job Board :
-Build a job board website where employers can post job openings and job seekers can
-search and apply for jobs. Use React, Node.js, and a database like MongoDB or PostgreSQL
-Home Page: Welcome message and featured job listings.
-Job Listings Page: List of job openings with essential details.
-Job Detail Page: Detailed information about a specific job.
-Employer Dashboard: Account management and job posting.
-Candidate Dashboard: Profile management and job applications.
-Job Application Process: Application form with resume upload.
-Search Functionality: Search bar for finding specific jobs.
-Email Notifications: Notifications for successful applications and updates.
-User Authentication and Security: Secure user login and data protection.
-Mobile Responsiveness: Website works well on different devices.
-Job Board FOR DEMO CLICK HERE
-8.Host the website at 000webhost, github.io,Netlify, heroku app or any other free hosting
-provider. Check in code in gitlab. (optional)
-
 # LEVEL -3(TASK-2)
 Project Management Tool :
 Develop a project management tool that allows users to create projects, assign tasks, set
